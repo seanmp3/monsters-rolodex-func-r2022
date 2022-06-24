@@ -47,7 +47,7 @@ const App = () => {
 
 // Class Component Version
 //
-// class Appp extends Component{
+// class App extends Component{
 //   constructor(){
 //     super();
 //     this.state = {
